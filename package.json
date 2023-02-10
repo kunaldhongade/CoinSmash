@@ -1,13 +1,18 @@
 {
-  "name": "coinsmash",
+  "name": "CoinSmash",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
+    "axios": "^1.3.2",
+    "dompurify": "^2.4.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-helmet-async": "^1.3.0",
+    "react-icons": "^4.7.1",
+    "react-router-dom": "^6.8.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.0"
   },
@@ -34,5 +39,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "CoinSmash is crypto analatics tool",
+  "main": "index.js",
+  "repository": "https://github.com/kunaldhongade/CoinSmash.git",
+  "author": "Kunal Dhongade",
+  "license": "MIT"
 }
