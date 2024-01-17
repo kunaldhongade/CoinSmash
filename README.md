@@ -1,5 +1,3 @@
-  Coinsmash: Real-time Cryptocurrency Price Tracker
-
 Coinsmash: Real-time Cryptocurrency Price Tracker
 =================================================
 
